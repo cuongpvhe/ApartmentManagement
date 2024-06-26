@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ApartmentManagement.force
+namespace ApartmentManagement.Models
 {
     public partial class Resident
     {

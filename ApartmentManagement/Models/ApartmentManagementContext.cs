@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace ApartmentManagement.force
+namespace ApartmentManagement.Models
 {
     public partial class ApartmentManagementContext : DbContext
     {
